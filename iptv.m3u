@@ -2,12 +2,9 @@
 
 #Playlists de TV y Radios online latinos
 #*****************************
-#EXTINF:-1, tvg-logo="" group-title="CHILEIPTVCL",- [COLOR BLUE]CHILEIPTV.CL PLAYLIST[/COLOR] -
 http://chileiptv.cl/CL/cl.m3u
-#EXTINF:-1, tvg-logo="" group-title="IPTVCHILEXYZ",- [COLOR white]CHILEIPTV.XYZ PLAYLIST[/COLOR] -
 http://iptvchile.xyz/listas/TeamIPTVChile.m3u
-#EXTINF:-1, tvg-logo="" group-title="LAOPE/TV",- [COLOR yellow]LAO.PE PLAYLIST[/COLOR] -
 http://lao.pe/tv
-#EXTINF:-1, tvg-logo="" group-title="Ragnaroktv",- [COLOR red]RAGNAROKTV.COM PLAYLIST[/COLOR] -
+
 http://ragnaroktv.com/tv/lista.m3u
 

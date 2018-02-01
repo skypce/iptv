@@ -32,11 +32,11 @@ http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/35.png" group-title="ARGENTINA",Telefe [NoKodi]
 http://ar.watcha.live/ch6/hi.m3u8
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/entretenimiento2/2.png" group-title="Entretenimiento", Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1,EspaÃ±a:Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1,EspaÃ±a:Antena 3 Internacional
+#EXTINF:-1,Antena 3 Internacional
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Antena 3 Intl.
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-1,Latinos:Gourmet
 http://server.poweriptv.cl:25461/live/asd123/asd123/40.m3u8

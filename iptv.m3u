@@ -34,7 +34,9 @@ http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
 http://ar.watcha.live/ch6/hi.m3u8
 #EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/entretenimiento2/2.png" group-title="Entretenimiento", Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 group-title="ALTERNOS",ANTENA 3
-https://usalatam-lh.akamaihd.net/i/antena3_1@576707/master.m3u8
+#EXTINF:-1,EspaÃ±a:Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,EspaÃ±a:Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1,Latinos:Gourmet
 http://server.poweriptv.cl:25461/live/asd123/asd123/40.m3u8

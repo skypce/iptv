@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486480229.jpg" group-title="Chileiptv" , Canal 13 
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15218177831.jpg" group-title="Chileiptv" , Canal 13 
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?yo.ac=true%26yo.br=false&amp;type=hls&amp;abrlite=true 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486614829.png" group-title="Chileiptv" , TVN 
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486613812.jpg" group-title="Chileiptv" , Mega 
@@ -36,3 +36,11 @@ http://ar.watcha.live/ch6/hi.m3u8
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ANTENA 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1500699633.jpg" group-title="Chileiptv" , Canal 33 Temuco 
+http://190.107.176.55:1935/live/canal-33/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_14866163781.png" group-title="Chileiptv" , UCV Gran Valparaíso 
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w870498386_b1428000.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15216859311.jpg" group-title="Chileiptv" , Ufrovisión 
+http://cl-a3-p-e-uy6.cdn.mdstrm.com/live-stream/580a80b827de0ae2086ea6d8/publish/media_800.m3u8?es=cl-a3-p-e-uy6.cdn.mdstrm.com&amp;ote=1521771540829&amp;ot=dFCJ1KULaI9MtcvhehTGVA&amp;proto=http&amp;pz=cl 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1492008110.jpg" group-title="Chileiptv" , ADN 
+http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8 

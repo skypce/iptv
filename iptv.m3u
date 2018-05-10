@@ -32,10 +32,6 @@ http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/35.png" group-title="ARGENTINA",Telefe [NoKodi]
 http://ar.watcha.live/ch6/hi.m3u8
-#EXTINF:-1,Antena 3 Internacional
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1500699633.jpg" group-title="Chileiptv" , Canal 33 Temuco 
 http://190.107.176.55:1935/live/canal-33/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_14866163781.png" group-title="Chileiptv" , UCV Gran Valparaíso 
@@ -44,3 +40,133 @@ http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w870
 http://cl-a3-p-e-uy6.cdn.mdstrm.com/live-stream/580a80b827de0ae2086ea6d8/publish/media_800.m3u8?es=cl-a3-p-e-uy6.cdn.mdstrm.com&amp;ote=1521771540829&amp;ot=dFCJ1KULaI9MtcvhehTGVA&amp;proto=http&amp;pz=cl 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1492008110.jpg" group-title="Chileiptv" , ADN 
 http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8 
+
+
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/master.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/master.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net:80/i/antena3/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net:80/i/antena3/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net:80/i/antena3/antena3_1@35248/master.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1,Antena 3 HD
+https://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_1_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_1_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_1_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_1_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_1_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_1_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net:80/i/antena3/antena3_1@35248/index_1_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net:80/i/antena3/antena3_1@35248/index_1_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_1_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+https://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_1_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net:80/i/antena3/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net:80/i/antena3/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+https://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_3_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_3_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net:80/i/antena3/antena3_1@35248/index_3_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net:80/i/antena3/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_3_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+https://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_1_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_1_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 360p
+http://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_1_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 404p
+http://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_3_av-b.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1,Antena 3 HD 720p
+http://a3live-lh.akamaihd.net:80/i/a3hds/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1,Antena 3 HD
+http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/index_4_av-b.m3u8

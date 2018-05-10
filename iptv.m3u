@@ -41,17 +41,7 @@ http://cl-a3-p-e-uy6.cdn.mdstrm.com/live-stream/580a80b827de0ae2086ea6d8/publish
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1492008110.jpg" group-title="Chileiptv" , ADN 
 http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8 
 
-#EXTINF:-1,Antena 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:-1,MOVISTAR ANTENA 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mccartagena.com/MC/wp-content/uploads/2014/10/lasexta.jpg" group-title="ESPAÃ‘A",La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,La Sexta HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,Antena 3 HD [0]
+http://us.chileiptv.xyz:25461/live/6GCQqWHU1/jGdww66D14/168.m3u8
+#EXTINF:-1,Antena 3 [0]
+http://us.chileiptv.xyz:25461/live/6GCQqWHU1/jGdww66D14/387.m3u8

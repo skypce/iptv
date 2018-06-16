@@ -36,5 +36,5 @@ http://190.107.176.55:1935/live/canal-33/playlist.m3u8
 
 
 
-#EXTINF:-1,ES: Antena 3
-http://51.15.6.71:8889/live/dildil2/pakistan2/884.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SP | Antena 3 HD" tvg-logo="" group-title="SPAIN",SP | Antena 3 HD
+http://devcon101.com:8080/live/ibrahim1/1ibrahim/2659.ts

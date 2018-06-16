@@ -6,42 +6,35 @@ http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?yo.ac=true%26yo.br
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486613812.jpg" group-title="Chileiptv" , Mega 
 http://mdstrm.com/live-stream-playlist_1500/53d2c1a32640614e62a0e000.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486482132.jpg" group-title="Chileiptv" , Chilevisión 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220759941.png" group-title="Chileiptv" , Chilevisión 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529931.png" group-title="Chileiptv" , La Red 
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_14873437931.png" group-title="Chileiptv" , UCV 
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/t13.jpg" group-title="Chileiptv" , T13 Móvil 
-http://cdn.ztreaming.com/t13vivo3/mobile.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1527809091.png" group-title="Chileiptv" , UCV 3 
+http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521686597.jpg" group-title="Chileiptv" , TV Chile 
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="Chileiptv" , 24 Horas Play 
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529651.png" group-title="Chileiptv" , Mega Noticias 
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/t13.jpg" group-title="Chileiptv" , T13 Móvil 
+http://cdn.ztreaming.com/t13vivo3/mobile.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529051.png" group-title="Chileiptv" , CNN Chile 
-http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD (Mirror USA)
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486617060.png" group-title="Chileiptv" , Canal 9 Bío Bío 
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1492004696.jpg" group-title="Chileiptv" , CDO 
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220774751.png" group-title="Chileiptv" , Tendencias TV 
+http://v2.tustreaming.cl/tustreaming/live7/chunklist.m3u8 
 http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1517079635.png" group-title="Chileiptv" , TVU Concepción 
+http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1500699633.jpg" group-title="Chileiptv" , Canal 33 Temuco 
 http://190.107.176.55:1935/live/canal-33/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_14920038371.jpeg" group-title="Chileiptv" , TV Senado 
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1501345757.png" group-title="Chileiptv" , Cámara de Diputados 
-http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8 
-#EXTINF:-1, tvg-logo="XHChUjI.png" group-title="Canales Chilenos", TVU | HD
-http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/35.png" group-title="ARGENTINA",Telefe [NoKodi]
-http://ar.watcha.live/ch6/hi.m3u8
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1500699633.jpg" group-title="Chileiptv" , Canal 33 Temuco 
-http://190.107.176.55:1935/live/canal-33/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_14866163781.png" group-title="Chileiptv" , UCV Gran Valparaíso 
-http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w870498386_b1428000.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15216859311.jpg" group-title="Chileiptv" , Ufrovisión 
-http://cl-a3-p-e-uy6.cdn.mdstrm.com/live-stream/580a80b827de0ae2086ea6d8/publish/media_800.m3u8?es=cl-a3-p-e-uy6.cdn.mdstrm.com&amp;ote=1521771540829&amp;ot=dFCJ1KULaI9MtcvhehTGVA&amp;proto=http&amp;pz=cl 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1492008110.jpg" group-title="Chileiptv" , ADN 
-http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8 
 
-#EXTINF:-1,Antena 3 HD [0]
-http://us.chileiptv.xyz:25461/live/6GCQqWHU1/jGdww66D14/168.m3u8
-#EXTINF:-1,Antena 3 [0]
-http://us.chileiptv.xyz:25461/live/6GCQqWHU1/jGdww66D14/387.m3u8
+
+
+#EXTINF:-1,ES: Antena 3
+http://disfruta.club:8000/live/casa1/Casa1/187.ts

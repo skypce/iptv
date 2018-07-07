@@ -1,34 +1,79 @@
-#EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15218177831.jpg" group-title="Chileiptv" , Canal 13 
-http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?yo.ac=true%26yo.br=false&amp;type=hls&amp;abrlite=true 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486614829.png" group-title="Chileiptv" , TVN 
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486613812.jpg" group-title="Chileiptv" , Mega 
-http://mdstrm.com/live-stream-playlist_1500/53d2c1a32640614e62a0e000.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220759941.png" group-title="Chileiptv" , Chilevisión 
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529931.png" group-title="Chileiptv" , La Red 
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_14873437931.png" group-title="Chileiptv" , UCV 
-http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1527809091.png" group-title="Chileiptv" , UCV 3 
-http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521686597.jpg" group-title="Chileiptv" , TV Chile 
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="Chileiptv" , 24 Horas Play 
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529651.png" group-title="Chileiptv" , Mega Noticias 
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/t13.jpg" group-title="Chileiptv" , T13 Móvil 
-http://cdn.ztreaming.com/t13vivo3/mobile.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529051.png" group-title="Chileiptv" , CNN Chile 
-http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1492004696.jpg" group-title="Chileiptv" , CDO 
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220774751.png" group-title="Chileiptv" , Tendencias TV 
-http://v2.tustreaming.cl/tustreaming/live7/chunklist.m3u8 
-http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 HD (SOLO CHILE)" tvg-logo="" group-title="Nacionales",Canal 13 HD (SOLO CHILE)
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?yo.ac=true&yo.br=false
+#EXTINF:-1 tvg-id="" tvg-name="CHV HD (SOLO CHILE)" tvg-logo="" group-title="Nacionales",CHV HD (SOLO CHILE)
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/6011.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Red HD (SOLO CHILE)" tvg-logo="" group-title="Nacionales",La Red HD (SOLO CHILE)
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/6012.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD (SOLO CHILE)" tvg-logo="" group-title="Nacionales",MEGA HD (SOLO CHILE)
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/6010.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN HD (SOLO CHILE)" tvg-logo="" group-title="Nacionales",TVN HD (SOLO CHILE)
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/6009.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teletrack HD (SOLO CHILE)" tvg-logo="" group-title="Nacionales",Teletrack HD (SOLO CHILE)
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/6018.ts
+#EXTINF:-1 tvg-id="" tvg-name="UCV HD (SOLO CHILE)" tvg-logo="" group-title="Noticias",UCV HD (SOLO CHILE)
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/6013.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: 13c" tvg-logo="http://logosiptv.ultraiptv.cl/13c.png" group-title="Nacionales",CL: 13c
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4486.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: am Canal" tvg-logo="" group-title="Nacionales",CL: am Canal
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4485.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Bang" tvg-logo="" group-title="Nacionales",CL: Bang
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4484.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Canal 13 HD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_canal13.jpg" group-title="Nacionales",CL: Canal 13 HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4890.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Canal 13 SD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_canal13.jpg" group-title="Nacionales",CL: Canal 13 SD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4483.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CHV HD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_chv.png" group-title="Nacionales",CL: CHV HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4891.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CHV SD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_chv.png" group-title="Nacionales",CL: CHV SD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4482.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: El Pinguino HD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_pinguinotv.png" group-title="Nacionales",CL: El Pinguino HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4481.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: ETC" tvg-logo="http://logosiptv.ultraiptv.cl/cl_etctv.png" group-title="Nacionales",CL: ETC
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4480.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: FMHOT HD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_fmhot.jpg" group-title="Nacionales",CL: FMHOT HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4479.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: LA RED HD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_lared.jpg" group-title="Nacionales",CL: LA RED HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4892.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: LA RED SD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_lared.jpg" group-title="Nacionales",CL: LA RED SD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4478.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Mega HD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_mega.jpg" group-title="Nacionales",CL: Mega HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4893.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Mega SD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_mega.jpg" group-title="Nacionales",CL: Mega SD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4477.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Rec TV 13" tvg-logo="" group-title="Nacionales",CL: Rec TV 13
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4476.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TELETRAK" tvg-logo="" group-title="Nacionales",CL: TELETRAK
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4475.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN HD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_tvn.png" group-title="Nacionales",CL: TVN HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4894.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN SD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_tvn.png" group-title="Nacionales",CL: TVN SD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4474.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: UCV HD" tvg-logo="http://logosiptv.ultraiptv.cl/cl_ucv.png" group-title="Nacionales",CL: UCV HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4895.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: UCV SD" tvg-logo="" group-title="Nacionales",CL: UCV SD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4473.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Zoom" tvg-logo="" group-title="Nacionales",CL: Zoom
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4472.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Play HD (SOLO CHILE)" tvg-logo="" group-title="Noticias",24 Play HD (SOLO CHILE)
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/6017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ahora Noticias Digital HD (SOLO CHILE)" tvg-logo="" group-title="Noticias",Ahora Noticias Digital HD (SOLO CHILE)
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/6016.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD (SOLO CHILE)" tvg-logo="" group-title="Nacionales",CNN HD (SOLO CHILE)
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/6014.ts
+#EXTINF:-1 tvg-id="" tvg-name="T13 Movil HD (SOLO CHILE)" tvg-logo="" group-title="Noticias",T13 Movil HD (SOLO CHILE)
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/6015.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Play" tvg-logo="" group-title="Noticias",24 Horas Play
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4898.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ahora Noticias Digital" tvg-logo="" group-title="Noticias",Ahora Noticias Digital
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4897.ts
+#EXTINF:-1 tvg-id="" tvg-name="T13 Movil" tvg-logo="" group-title="Noticias",T13 Movil
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4899.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile SD" tvg-logo="http://logosiptv.ultraiptv.cl/cnn_chile.png" group-title="Noticias",CNN Chile SD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4528.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Espanol" tvg-logo="http://logosiptv.ultraiptv.cl/cnn_espanol.jpg" group-title="Noticias",CNN Espanol
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4527.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional" tvg-logo="http://logosiptv.ultraiptv.cl/cnn.png" group-title="Noticias",CNN Internacional
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4526.ts
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1517079635.png" group-title="Chileiptv" , TVU Concepción 
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1500699633.jpg" group-title="Chileiptv" , Canal 33 Temuco 
@@ -40,7 +85,45 @@ http://190.107.176.55:1935/live/canal-33/playlist.m3u8
 http://devcon101.com:8080/live/ibrahim1/1ibrahim/2659.ts
 
 
-#EXTINF:-1,Antena 3 [ES]
-http://nettv-xcruiser.com:8000/live/test2/test2/12080.ts
-#EXTINF:-1,Antena 3 HD
-http://nettv-xcruiser.com:8000/live/test2/test2/12079.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/antena3_espana.jpg" group-title="España",ES: Antena 3 SD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4330.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film&Arts" tvg-logo="" group-title="Peliculas y Series",Film&Arts
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4640.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="" group-title="Culturales",NAT GEO
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4606.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="Culturales",NAT GEO HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4711.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: Bachatas" tvg-logo="" group-title="Radios",RADIO: Bachatas
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4811.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: CANDELA |CHILE|" tvg-logo="" group-title="Radios",RADIO: CANDELA |CHILE|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4810.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: CARNAVAL |CHILE|" tvg-logo="" group-title="Radios",RADIO: CARNAVAL |CHILE|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4809.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: CAROLINA |CHILE|" tvg-logo="" group-title="Radios",RADIO: CAROLINA |CHILE|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4808.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: CORAZON |CHILE|" tvg-logo="" group-title="Radios",RADIO: CORAZON |CHILE|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4807.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: Disco Retro" tvg-logo="" group-title="Radios",RADIO: Disco Retro
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4806.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: EXITOSA |PERU|" tvg-logo="" group-title="Radios",RADIO: EXITOSA |PERU|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4805.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: FELICIDAD |PERU|" tvg-logo="" group-title="Radios",RADIO: FELICIDAD |PERU|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4804.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: Grandes Del Rock" tvg-logo="" group-title="Radios",RADIO: Grandes Del Rock
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4803.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: Hot 100 Salsa y Bachata" tvg-logo="" group-title="Radios",RADIO: Hot 100 Salsa y Bachata
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4802.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: LA INOLVIDABLE |PERU|" tvg-logo="" group-title="Radios",RADIO: LA INOLVIDABLE |PERU|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4801.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: LA KALLE |PERU|" tvg-logo="" group-title="Radios",RADIO: LA KALLE |PERU|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4800.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: La Karibeña |PERU|" tvg-logo="" group-title="Radios",RADIO: La Karibeña |PERU|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4799.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: LA ZONA |PERU|" tvg-logo="" group-title="Radios",RADIO: LA ZONA |PERU|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4798.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: Lentos 90" tvg-logo="" group-title="Radios",RADIO: Lentos 90
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4797.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: LOS 40 |CHILE|" tvg-logo="" group-title="Radios",RADIO: LOS 40 |CHILE|
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4796.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO: MODA |PERU|" tvg-logo="" group-title="Radios",RADIO: MODA |PERU|

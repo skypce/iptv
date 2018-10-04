@@ -81,12 +81,17 @@ http://190.107.176.55:1935/live/canal-33/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="SP | Antena 3 HD" tvg-logo="" group-title="SPAIN",SP | Antena 3 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/2659.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/antena3_espana.jpg" group-title="España",ES: Antena 3 SD
+#EXTINF:-1 tvg-id="11277" tvg-name="Antena 3 HQ" tvg-logo="" group-title="Internacionales",Antena 3 HQ
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/11277.ts
+#EXTINF:-1 tvg-id="11254" tvg-name="ES: Antena 3 HD" tvg-logo="" group-title="España",ES: Antena 3 HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/11254.ts
+#EXTINF:-1 tvg-id="4331" tvg-name="ES: A3series HD" tvg-logo="" group-title="España",ES: A3series HD
+http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4331.ts
+#EXTINF:-1 tvg-id="4330" tvg-name="ES: Antena 3 SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/antena3_espana.jpg" group-title="España",ES: Antena 3 SD
 http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4330.ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Film&Arts" tvg-logo="" group-title="Peliculas y Series",Film&Arts
 http://iptv.wtf:25461/live/Skypcegmailcom/1q2waszx/4640.ts
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="" group-title="Culturales",NAT GEO
